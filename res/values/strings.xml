@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CamTimer</string>
+
+    <string name="action_settings">Seconds</string>
+    <string name="action_switch">Switch</string>
+    <string name="action_credits">Credits</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="settings_delay01">One</string>
+    <string name="settings_delay02">Two</string>
+    <string name="settings_delay05">Five</string>
+    <string name="settings_delay10">Ten</string>
+    <string name="settings_delay30">Thirty</string>
+
+    <string name="credits_me">By Andy!</string>
+
+    <string name="cam_not_found">This device has no camera</string>
+    <string name="pic_saved">Picture saved!</string>
+    <string name="pic_not_saved">Problem saving picture</string>
+    <string name="scan_complete">Media scan complete</string>
+    <string name="timer_started">Timer started</string>
+    <string name="timer_cancelled">Timer cancelled</string>
+    <string name="now_using">Now using</string>
+    <string name="front_cam">front</string>
+    <string name="back_cam">back</string>
+    <string name="other_cam">other</string>
+    <string name="camera">camera</string>
+    
+</resources>
